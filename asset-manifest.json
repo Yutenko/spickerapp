@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appszauberwilli/spicker/build/static/css/main.a3800748.chunk.css",
+    "main.js": "/appszauberwilli/spicker/build/static/js/main.feb77de8.chunk.js",
+    "main.js.map": "/appszauberwilli/spicker/build/static/js/main.feb77de8.chunk.js.map",
+    "runtime~main.js": "/appszauberwilli/spicker/build/static/js/runtime~main.a0b5483d.js",
+    "runtime~main.js.map": "/appszauberwilli/spicker/build/static/js/runtime~main.a0b5483d.js.map",
+    "static/js/2.9712c431.chunk.js": "/appszauberwilli/spicker/build/static/js/2.9712c431.chunk.js",
+    "static/js/2.9712c431.chunk.js.map": "/appszauberwilli/spicker/build/static/js/2.9712c431.chunk.js.map",
+    "index.html": "/appszauberwilli/spicker/build/index.html",
+    "precache-manifest.b4520202ccf022f9b1b60a0be6cfb424.js": "/appszauberwilli/spicker/build/precache-manifest.b4520202ccf022f9b1b60a0be6cfb424.js",
+    "service-worker.js": "/appszauberwilli/spicker/build/service-worker.js",
+    "static/css/main.a3800748.chunk.css.map": "/appszauberwilli/spicker/build/static/css/main.a3800748.chunk.css.map"
+  }
+}
